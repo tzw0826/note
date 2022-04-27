@@ -8,6 +8,10 @@
 
 3. 克隆远程仓库：git clone git@github.com:远程仓库名字.git
 
+3. 删除文件：git rm
+
+3. 删除文件夹：git rm -r
+
 4. GitHub常用词含义
 
    - watch：会持续受到项目的动态
